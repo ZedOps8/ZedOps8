@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gyanapriya Pradhan</h1>
-<h3 align="center">A passionate Research Scholar & Cloud DevOps Enthusiat From from India</h3>
+<h1 align="center">Hi 👋, I'm Zed</h1>
+<h3 align="center">A passionate Research Scholar & Cloud DevOps Enthusiat  from India</h3>
 
 <p align="left"> <a href="https://twitter.com/zedops8" target="blank"><img src="https://img.shields.io/twitter/follow/zedops8?logo=twitter&style=for-the-badge" alt="zedops8" /></a> </p>
 
