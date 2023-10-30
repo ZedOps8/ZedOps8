@@ -34,13 +34,13 @@
 
 <a href="https://instagram.com/gyanapriya_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gyanapriya_7" height="30" width="40" /></a>
 
-<a href="https://medium.com/@gyana.cse7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gyana.cse7" height="30" width="40" /></a>
+<a href="https://medium.com/@gyana.cse7" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-2020-new-logo-4DD1CA1BFF-seeklogo.com.png" alt="@gyana.cse7" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/c/gyanafortechnology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gyanafortechnology" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/gyanafortechnology" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="gyanafortechnology" height="30" width="40" /></a>
 
 <a href="https://www.hackerrank.com/gyana_cse7" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="gyana_cse7" height="30" width="40" /></a>
 
-<a href="https://auth.geeksforgeeks.org/user/gyanacse7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gyanacse7" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gyanacse7" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20211005162802/longdesc2.png" alt="gyanacse7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
