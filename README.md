@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Zed</h1>
+<h1 align="center">Hi 👋, I'm Gyanapriya Pradhan</h1>
 <h3 align="center">A passionate Research Scholar & Cloud DevOps Enthusiat  from India</h3>
 
 <p align="left"> <a href="https://twitter.com/zedops8" target="blank"><img src="https://img.shields.io/twitter/follow/zedops8?logo=twitter&style=for-the-badge" alt="zedops8" /></a> </p>
+<p align="left"><a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://cdn.qwiklabs.com/VB4DlNGx2WUyGd9cUpF7Ci8Y9dFCglBTmKzLQMlPQNQ%3D" alt="Gyanapriya pradhan" height="300" width="300" /></a>
 
 - 🔭 I’m currently working on **Research work**
 
