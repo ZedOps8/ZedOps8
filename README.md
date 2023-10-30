@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Cloud DevOps**
 
-- 👯 I’m looking to collaborate on ** Academic Rsearch Projects **
+- 👯 I’m looking to collaborate on **Academic Rsearch Projects**
 
 - 🤝 I’m looking for help with **Open source Contribution**
 
 - 📝 I regularly write articles on [lovebyte8.blogspot.com](lovebyte8.blogspot.com)
 
-- 💬 Ask me about **Research, Cloud Security , DevOps, Open Source **
+- 💬 Ask me about **Research, Cloud Security , DevOps, Open Source**
 
 - 📫 How to reach me **gyana.cse7@gmail.com**
 
