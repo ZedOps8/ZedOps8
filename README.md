@@ -9,7 +9,10 @@
 
   <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://cdn.qwiklabs.com/VB4DlNGx2WUyGd9cUpF7Ci8Y9dFCglBTmKzLQMlPQNQ%3D" alt="Gyanapriya pradhan" height="120" width="120" /></a>
 
-https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png
+  <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://pacybersecurity.org/wp-content/uploads/2022/01/ccna_600.png" alt="Gyanapriya pradhan" height="120" width="120" /></a>     <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/twitter_thumb_201604_CyberEssentials.png" alt="Gyanapriya pradhan" height="120" width="120" /></a>     <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://images.credly.com/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="Gyanapriya pradhan" height="120" width="120" /></a>     <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="Gyanapriya pradhan" height="120" width="120" /></a>
+
+
+
 
 
 
