@@ -6,27 +6,23 @@
 <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="Gyanapriya pradhan" height="130" width="130" /></a>    <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="Gyanapriya pradhan" height="120" width="120" /></a>     <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://cdn.qwiklabs.com/VB4DlNGx2WUyGd9cUpF7Ci8Y9dFCglBTmKzLQMlPQNQ%3D" alt="Gyanapriya pradhan" height="110" width="110" /></a>       <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://cdn.qwiklabs.com/3hKxk2GK8q9pW6k%2FDx03nRrNB%2F9BJXKA3rOjV0ltBuU%3D" alt="Gyanapriya pradhan" height="110" width="110" /></a>     <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://cdn.qwiklabs.com/tTcM%2FRANi25XfZdZfnAHBAPcD41qMCtwV6qnXwlH1ek%3D" alt="Gyanapriya pradhan" height="110" width="110" /></a>         <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://cdn.qwiklabs.com/hYiMA4VF%2B4Ud25kDvrO6jCax5PcuNyrURzlom%2FB3Emw%3D" alt="Gyanapriya pradhan" height="110" width="110" /></a>          <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://cdn.qwiklabs.com/vwqIHyshLiyHuLBGBT5KdzzcHr2e7ZlsPCcXOgo1Q2M%3D" alt="Gyanapriya pradhan" height="110" width="110" /></a>        <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://cdn.qwiklabs.com/%2BCsWnL49dO1EiQScypoKfAJdI8oWEgDWqu5PBt%2FWepc%3D" alt="Gyanapriya pradhan" height="110" width="110" /></a>       <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://cdn.qwiklabs.com/gOBgtMPD6Vzqo3FH2fAfN0OmSRGhksEnZLxEldd9XMQ%3D" alt="Gyanapriya pradhan" height="110" width="110" /></a>       <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://cdn.qwiklabs.com/9lJSUcFYeeOLGeVCvErQyupwgBHbHsKqvfgdb2xnCN8%3D" alt="Gyanapriya pradhan" height="110" width="110" /></a>     <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://pacybersecurity.org/wp-content/uploads/2022/01/ccna_600.png" alt="Gyanapriya pradhan" height="120" width="120" /></a>     <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/twitter_thumb_201604_CyberEssentials.png" alt="Gyanapriya pradhan" height="120" width="120" /></a>     <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://images.credly.com/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="Gyanapriya pradhan" height="120" width="120" /></a>     <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="Gyanapriya pradhan" height="120" width="120" /></a>
 
 
-
-
-
-
 - 🔭 I’m currently working on **Research work**
 
 - 🌱 I’m currently learning **Cloud DevOps**
 
-- 👯 I’m looking to collaborate on **Academic Rsearch Projects**
+<!--- 👯 I’m looking to collaborate on **Academic Rsearch Projects**
 
-- 🤝 I’m looking for help with **Open source Contribution**
+  I’m looking for help with **Open source Contribution** -->
 
 - 📝 I regularly write articles on [lovebyte8](https://lovebyte8.blogspot.com)
 
 - 💬 Ask me about **Research, Cloud Security , DevOps, Open Source**
 
-- 📫 How to reach me gyana.cse7@gmail.com
+- 📫 To reach me gyana.cse7@gmail.com
 
 - 📄 Know about my experiences <a href="https://bit.ly/3FzdSM1" target="_blank">Resume</a>
 
-- ⚡ Fun fact **I think i am an Academic AI robot**
+- ⚡ Fun fact **Github hai majak thodi hi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,8 +53,8 @@
   
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
   
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coregyana&show_icons=true&locale=en&layout=compact" alt="coregyana" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coregyana&show_icons=true&locale=en&layout=compact" alt="coregyana" /></p>>
