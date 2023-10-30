@@ -23,13 +23,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/coregyana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="coregyana" height="30" width="40" /></a>
-<a href="https://twitter.com/gyanapriya_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gyanapriya_7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gyanapriyapradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyanapriyapradhan" height="30" width="40" /></a>
+  
+<a href="https://linkedin.com/in/ZedOps8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Gyanapriya pradhan" height="30" width="40" /></a>
+
+<a href="https://codepen.io/coregyana" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/166/1007/png-transparent-codepen-computer-icons-kaya-scodelario-miscellaneous-celebrities-emblem-thumbnail.png" alt="coregyana" height="30" width="40" /></a>
+
+<a href="https://twitter.com/Zedops8" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="ZedOps8" height="30" width="40" /></a>
+
 <a href="https://stackoverflow.com/users/coregyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="coregyan" height="30" width="40" /></a>
+
 <a href="https://instagram.com/gyanapriya_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gyanapriya_7" height="30" width="40" /></a>
+
 <a href="https://medium.com/@gyana.cse7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gyana.cse7" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/gyanafortechnology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gyanafortechnology" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/gyana_cse7" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="gyana_cse7" height="30" width="40" /></a>
 
 <a href="https://auth.geeksforgeeks.org/user/gyanacse7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gyanacse7" height="30" width="40" /></a>
