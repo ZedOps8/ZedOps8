@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Research, Cloud Security , DevOps, Open Source**
 
-- 📫 How to reach me [mail here](gyana.cse7@gmail.com)
+- 📫 How to reach me gyana.cse7@gmail.com
 
 - 📄 Know about my experiences <a href="https://bit.ly/3FzdSM1" target="_blank">Resume</a>
 
