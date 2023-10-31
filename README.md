@@ -52,15 +52,12 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 </p>
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZedOps8)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZedOps8)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZedOps8)
 ![GitHub Stats](https://img.shields.io/github/followers/ZedOps8?style=social)
 [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=ZedOps8&repo=Hacktoberfest2023-Open-source-)](https://github.com/ZedOps8/Hacktoberfest2023-Open-source-1)
 
-
-
-
+![Python](https://img.shields.io/badge/Python-3.8-blue)
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coregyana&show_icons=true&locale=en&layout=compact" alt="coregyana" /></p>>
