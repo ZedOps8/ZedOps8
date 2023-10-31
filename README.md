@@ -53,7 +53,9 @@
 
 </p>
 
-[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name)](https://github.com/your-username/repo-name)
+[[Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name)](https://github.com/your-username/repo-name)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-username)
+
 
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coregyana&show_icons=true&locale=en&layout=compact" alt="coregyana" /></p>>
