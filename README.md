@@ -53,11 +53,8 @@
 
 </p>-->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZedOps8)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZedOps8)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZedOps8)
-![GitHub Stats](https://img.shields.io/github/followers/ZedOps8?style=social)
-[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=ZedOps8&repo=Hacktoberfest2023-Open-source-)](https://github.com/ZedOps8/Hacktoberfest2023-Open-source-1)
+
 
 
 
