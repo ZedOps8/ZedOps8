@@ -53,8 +53,8 @@
 
 </p>
 
-[[Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name)](https://github.com/your-username/repo-name)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-username)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZedOps8)
+
 
 
 
