@@ -53,4 +53,7 @@
 
 </p>
 
+[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name)](https://github.com/your-username/repo-name)
+
+
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coregyana&show_icons=true&locale=en&layout=compact" alt="coregyana" /></p>>
