@@ -50,7 +50,7 @@
 </a>     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
   <img src="https://scalefactory.com/blog/2020/06/25/what-we-are-looking-forward-to-in-terraform-0.13/Terraform.png" alt="Terraform" width="40" height="40"/>
 </a>     <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer">
-  <img src="https://i0.wp.com/i.ibb.co/F5vV78F/main-qimg-b580a856b6630f6d57cce4a975e650c8.png?resize=229%2C229&ssl=1" alt="AWS CloudFormation" width="40" height="40"/>
+  <img src="https://i0.wp.com/i.ibb.co/F5vV78F/main-qimg-b580a856b6630f6d57cce4a975e650c8.png?resize=229%2C229&ssl=1" alt="AWS CloudFormation" width="60" height="60"/>
 </a>     <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" alt="Ansible" width="40" height="40"/>
 </a>     <a href="https://www.chef.io/" target="_blank" rel="noreferrer">
