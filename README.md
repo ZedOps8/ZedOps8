@@ -33,7 +33,42 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/147/242/png-transparent-amazon-com-logo-amazon-web-services-amazon-elastic-compute-cloud-amazon-virtual-private-cloud-cloud-computing-text-orange-logo.png" alt="aws" width="50" height="40"/> </a>     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>      <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>       <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/185/866/png-transparent-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-text-thumbnail.png" alt="azure" width="40" height="40"/> </a>        <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="azure" width="40" height="40"/> </a>        <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="azure" width="40" height="40"/> </a>      <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIV2jacGTP2z3PC8Cz1DlwKdO3wfXk0F2D5B0LST3W61sUeZWbZv0rFDptLWeMRnfCjo&usqp=CAU" alt="azure" width="40" height="40"/> </a>       <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" alt="azure" width="40" height="40"/> </a>           <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://www.liblogo.com/img-logo/no6273n057-node-js-logo-nodejs-transparent-logo-google-search.png" alt="azure" width="40" height="40"/> </a>      <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="azure" width="40" height="40"/> </a>     <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/447/294/png-transparent-python-javascript-logo-clojure-python-logo-blue-angle-text-thumbnail.png" alt="azure" width="40" height="40"/> </a>     <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://www.mohitkhare.com/_nuxt/d0be400f82915b7567a612054a933b73-1024.png" alt="azure" width="75" height="40"/> </a>      <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/253/949/png-clipart-bash-bourne-shell-unix-shell-shell-script-shell-text-logo.png" alt="azure" width="75" height="40"/> </a>     <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" alt="azure" width="65" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/147/242/png-transparent-amazon-com-logo-amazon-web-services-amazon-elastic-compute-cloud-amazon-virtual-private-cloud-cloud-computing-text-orange-logo.png" alt="aws" width="50" height="40"/> </a>     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>      <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>       <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/185/866/png-transparent-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-text-thumbnail.png" alt="azure" width="40" height="40"/> </a>        <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="azure" width="40" height="40"/> </a>        <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="azure" width="40" height="40"/> </a>      <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIV2jacGTP2z3PC8Cz1DlwKdO3wfXk0F2D5B0LST3W61sUeZWbZv0rFDptLWeMRnfCjo&usqp=CAU" alt="azure" width="40" height="40"/> </a>       <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" alt="azure" width="40" height="40"/> </a>           <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://www.liblogo.com/img-logo/no6273n057-node-js-logo-nodejs-transparent-logo-google-search.png" alt="azure" width="40" height="40"/> </a>      <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="azure" width="40" height="40"/> </a>     <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/447/294/png-transparent-python-javascript-logo-clojure-python-logo-blue-angle-text-thumbnail.png" alt="azure" width="40" height="40"/> </a>     <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://www.mohitkhare.com/_nuxt/d0be400f82915b7567a612054a933b73-1024.png" alt="azure" width="75" height="40"/> </a>      <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/253/949/png-clipart-bash-bourne-shell-unix-shell-shell-script-shell-text-logo.png" alt="azure" width="75" height="40"/> </a>     <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" alt="azure" width="65" height="40"/> </a>     
+
+  # DevOps Tools
+
+Here are some basic DevOps tools you can use:
+
+- **Version Control:** 
+  - [Git](https://git-scm.com/)
+  - [GitHub](https://github.com/)
+
+- **Continuous Integration/Continuous Deployment (CI/CD):**
+  - [Jenkins](https://www.jenkins.io/)
+  - [Travis CI](https://travis-ci.org/)
+
+- **Containerization and Orchestration:**
+  - [Docker](https://www.docker.com/)
+  - [Kubernetes](https://kubernetes.io/)
+
+- **Infrastructure as Code (IaC):**
+  - [Terraform](https://www.terraform.io/)
+  - [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
+
+- **Configuration Management:**
+  - [Ansible](https://www.ansible.com/)
+  - [Chef](https://www.chef.io/)
+
+- **Monitoring and Logging:**
+  - [Prometheus](https://prometheus.io/)
+  - [Grafana](https://grafana.com/)
+
+- **Collaboration and Communication:**
+  - [Slack](https://slack.com/)
+  - [Microsoft Teams](https://teams.microsoft.com/)
+
+Feel free to add and customize this list according to the DevOps tools you are using in your project. You can also include brief descriptions or icons if you like. Don't forget to replace the links with the URLs to the respective tools' official websites or GitHub repositories.
+
 
   
 
