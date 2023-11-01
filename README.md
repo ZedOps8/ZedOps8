@@ -38,7 +38,7 @@
 
   # DevOps Tools
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="GitHub" width="70" height="40"/>
 </a>     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
   <img src="https://w7.pngwing.com/pngs/829/527/png-transparent-computer-icons-jenkins-mauldin-jenkins-llc-head-communication-mauldin-jenkins-llc-thumbnail.png" alt="Jenkins" width="40" height="40"/>
 </a>     <a href="https://travis-ci.org/" target="_blank" rel="noreferrer">
@@ -58,7 +58,7 @@
 </a>     <a href="https://grafana.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/2005px-Grafana_logo.svg.png" alt="Grafana" width="40" height="40"/>
 </a>     <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-  <img src="https://wiki.yowu.dev/prometheus.png" alt="Prometheus" width="40" height="40"/>
+  <img src="https://wiki.yowu.dev/prometheus.png" alt="Prometheus" width="70" height="40"/>
 </a>
 
 
