@@ -50,7 +50,7 @@
 </a>     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
   <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="Terraform" width="40" height="40"/>
 </a>     <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer">
-  <img src="https://yamlhunter.gallerycdn.vsassets.io/extensions/yamlhunter/yamltemplatemaker/0.0.80/1696831395814/Microsoft.VisualStudio.Services.Icons.Default" alt="AWS CloudFormation" width="60" height="60"/>
+  <img src="https://yamlhunter.gallerycdn.vsassets.io/extensions/yamlhunter/yamltemplatemaker/0.0.80/1696831395814/Microsoft.VisualStudio.Services.Icons.Default" alt="AWS CloudFormation" width="40" height="40"/>
 </a>     <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" alt="Ansible" width="40" height="40"/>
 </a>     <a href="https://www.chef.io/" target="_blank" rel="noreferrer">
