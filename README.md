@@ -38,7 +38,7 @@
 
   # DevOps Tools
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="GitHub" width="40" height="40"/>
 </a>     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
   <img src="https://w7.pngwing.com/pngs/829/527/png-transparent-computer-icons-jenkins-mauldin-jenkins-llc-head-communication-mauldin-jenkins-llc-thumbnail.png" alt="Jenkins" width="40" height="40"/>
 </a>     <a href="https://travis-ci.org/" target="_blank" rel="noreferrer">
@@ -50,15 +50,15 @@
 </a>     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
   <img src="https://scalefactory.com/blog/2020/06/25/what-we-are-looking-forward-to-in-terraform-0.13/Terraform.png" alt="Terraform" width="40" height="40"/>
 </a>     <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer">
-  <img src="https://files.codingninjas.in/article_images/aws-cloud-formation-0-1653929238.webp" alt="AWS CloudFormation" width="40" height="40"/>
+  <img src="https://i0.wp.com/i.ibb.co/F5vV78F/main-qimg-b580a856b6630f6d57cce4a975e650c8.png?resize=229%2C229&ssl=1" alt="AWS CloudFormation" width="40" height="40"/>
 </a>     <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" alt="Ansible" width="40" height="40"/>
 </a>     <a href="https://www.chef.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.chef.io/wp-content/uploads/2021/11/chef-logo-color.png" alt="Chef" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chef_logo.svg/1083px-Chef_logo.svg.png" alt="Chef" width="40" height="40"/>
 </a>     <a href="https://grafana.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/2005px-Grafana_logo.svg.png" alt="Grafana" width="40" height="40"/>
 </a>     <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-  <img src="https://prometheus.io/assets/icon/prometheus.png" alt="Prometheus" width="40" height="40"/>
+  <img src="https://wiki.yowu.dev/prometheus.png" alt="Prometheus" width="40" height="40"/>
 </a>
 
 
