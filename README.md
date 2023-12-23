@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences <a href="https://bit.ly/3FzdSM1" target="_blank">Resume</a>
 
-- ⚡ Fun fact **Github hai majak thodi hi**
+- ⚡ Fun fact **i am on sale and Resume as specs tag**
 
 <h3 align="left">Connect with me:</h3>     
 <p align="left">
