@@ -7,14 +7,7 @@
 
 <p align="left"> <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://images.credly.com/size/680x680/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" alt="Gyanapriya pradhan" height="130" width="130" /></a> <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="Gyanapriya pradhan" height="130" width="130" /></a> <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://cdn.qwiklabs.com/VB4DlNGx2WUyGd9cUpF7Ci8Y9dFCglBTmKzLQMlPQNQ%3D" alt="Gyanapriya pradhan" height="110" width="110" /></a>
 
-
-
-
-<a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank">
-  <img align="center" src="https://images.credly.com/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="Gyanapriya pradhan" height="110" width="110" />
-</a>
-  
-  
+ 
  <!--<a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://cdn.qwiklabs.com/3hKxk2GK8q9pW6k%2FDx03nRrNB%2F9BJXKA3rOjV0ltBuU%3D" alt="Gyanapriya pradhan" height="110" width="110" /></a> <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://cdn.qwiklabs.com/%2BCsWnL49dO1EiQScypoKfAJdI8oWEgDWqu5PBt%2FWepc%3D" alt="Gyanapriya pradhan" height="110" width="110" /></a> <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://cdn.qwiklabs.com/gOBgtMPD6Vzqo3FH2fAfN0OmSRGhksEnZLxEldd9XMQ%3D" alt="Gyanapriya pradhan" height="110" width="110" /></a>      <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="Gyanapriya pradhan" height="110" width="110" /></a>.-->
 
 
