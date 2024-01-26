@@ -72,6 +72,10 @@
   <img src="https://wiki.yowu.dev/prometheus.png" alt="Prometheus" width="70" height="40"/>
 </a>
 
+<h2 align="left">DevOps and Automation Tools:</h2>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="GitHub" width="70" height="40"/>
+</a>     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
 
   <!--<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   
