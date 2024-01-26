@@ -15,7 +15,7 @@ https://www.credly.com/badges/d4b2387a-92cf-4973-9063-d27505a69d58/public_url
 
 
 
-- 🔭 I’m currently working on **Research and Development**
+- 🔭 I’m currently working on **R&D and Bussiness Analysis**
 
 - 🌱 I’m currently learning **Cloud DevOps**
 
