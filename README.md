@@ -5,11 +5,8 @@
 
   
 
-<p align="left"> <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://images.credly.com/size/680x680/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" alt="Gyanapriya pradhan" height="130" width="130" /></a> <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="Gyanapriya pradhan" height="130" width="130" /></a> <div style="display: inline-block; margin-right: 20px;">
-  <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank">
-    <img align="center" src="https://cdn.qwiklabs.com/VB4DlNGx2WUyGd9cUpF7Ci8Y9dFCglBTmKzLQMlPQNQ%3D" alt="Gyanapriya pradhan" height="110" width="110" />
-  </a>
-</div>
+<p align="left"> <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://images.credly.com/size/680x680/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png" alt="Gyanapriya pradhan" height="130" width="130" /></a> <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="Gyanapriya pradhan" height="130" width="130" /></a> <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank"><img align="center" src="https://cdn.qwiklabs.com/VB4DlNGx2WUyGd9cUpF7Ci8Y9dFCglBTmKzLQMlPQNQ%3D" alt="Gyanapriya pradhan" height="110" width="110" /></a>
+
 
 <a href="https://www.cloudskillsboost.google/public_profiles/0792424e-fd1b-435a-8bec-c88b9909b727" target="blank">
   <img align="center" src="https://images.credly.com/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="Gyanapriya pradhan" height="110" width="110" />
