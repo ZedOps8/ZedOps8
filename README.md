@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently working on **Research & Development**
+- 🔭 I’m currently working on **Research & Development** Cloud Sec
 
 - 🌱 I’m currently learning **Bussiness Analysis**
 
