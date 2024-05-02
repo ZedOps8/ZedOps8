@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gyanapriya Pradhan Z0ED </h1>
+<h1 align="center">Hi 👋, I'm Gyanapriya Pradhan </h1>
 <h3 align="center">A victim of Research & Developement and Cloud DevOps Engineer from INDIA</h3>
 
 <!--<p align="left"> <a href="https://twitter.com/zedops8" target="blank"><img src="https://img.shields.io/twitter/follow/zedops8?logo=twitter&style=for-the-badge" alt="zedops8" /></a> </p> -->
