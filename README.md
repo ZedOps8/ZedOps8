@@ -25,7 +25,7 @@
 
 - 📝 I regularly write articles on [lovebyte8](https://lovebyte8.blogspot.com)-->
 
-- 💬 Ask me about **Research, Cloud Security , DevOps, Open Source**
+- 💬 Ask me about **Research, Cloud Security , DevOps**
 
 - 📫 To reach me gyana.cse7@gmail.com
 
