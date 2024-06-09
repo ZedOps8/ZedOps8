@@ -31,7 +31,7 @@
 
 - 📄 Know about my experiences <a href="https://bit.ly/3FzdSM1" target="_blank">Resume</a>
 
-- ⚡ Fun fact **Publications are used called me Dr Pradhan "Jalwa hai hamara"**
+- ⚡ Fun fact **Publications are used called me Dr. Pradhan "passionate isn't it"**
 
 <h3 align="left">Connect with me:</h3>     
 <p align="left">
