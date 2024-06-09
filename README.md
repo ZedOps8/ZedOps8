@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Research & Development** Cloud Sec
 
-- 🌱 I’m currently learning **Bussiness Analysis**
+- 🌱 I’m currently learning **Advanced Development**
 
 <!--- 👯 I’m looking to collaborate on **Academic Rsearch Projects**
 
