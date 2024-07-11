@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **R&D** Cloud Security
 
-- 🌱 I’m currently learning **Job Market**
+- 🌱 I’m currently learning **Job finding**
 
 <!--- 👯 I’m looking to collaborate on **Academic Rsearch Projects**
 
