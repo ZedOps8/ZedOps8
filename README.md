@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently working on **Research & Development** Cloud Sec
+- 🔭 I’m currently working on **R&D** Cloud Security
 
 - 🌱 I’m currently learning **Job Market**
 
