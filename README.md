@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently working on **R&D** Cloud Security
+- 🔭 I’m currently working on **Java** Springboot
 
 - 🌱 I’m currently learning **Job finding**
 
