@@ -40,9 +40,7 @@
 </p>
 
 
-<h2 align="left">Cloud/Hosting Platform:</h2>
-  
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz2UWwkvHFnH6qg4Pu6iMmoZ6iuawRfCLF6Q&usqp=CAU" alt="aws" width="40" height="40"/> </a>     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>      <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>     <a href="https://heroku.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2018/05/heroku-logotype-vertical-purple.png?fit=576%2C684&ssl=1" alt="azure" width="50" height="50"/> </a>
+
 
   
 <h2 align="left">Expertise In:</h2>
