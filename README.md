@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gyanapriya Pradhan 
+<h1 align="center">Hi 👋, I'm Gyanapriya
 </h1>
 <h3 align="center">A victim of Cloud, java & Linux Server Engineer from INDIA</h3>
 
